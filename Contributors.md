@@ -5022,4 +5022,4 @@ asd
 - [Nilesh Kumar](https://github.com/nileshkumaryadav1) Hello, open Source.
 - [Raviteja M](https://github.com/Raviteja-021) hello...
 - [Govind Chauhan](https://github.com/gov5033) hellooooo, wassssup
-- [Amritha S Nidhi](https://github.com/amrithasnidhi) – first open source contribution
+- [Amritha S Nidhi](https://github.com/amrithasnidhi) – first open source contribution!
